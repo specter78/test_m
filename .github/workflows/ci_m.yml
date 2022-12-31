@@ -5,6 +5,7 @@ on:
     - cron: '*/5 * * * *'
     - cron: '*/6 * * * *'
     - cron: '*/7 * * * *'
+    - cron: '*/8 * * * *'
   workflow_dispatch:
 
 env:
